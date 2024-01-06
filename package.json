@@ -1,0 +1,25 @@
+{
+  "name": "efootball-tournaments-and-database",
+  "version": "0.0.1",
+  "description": "A eFootball Tournament maker and Database web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Mahesh/eFootball-Database.git"
+  },
+  "keywords": [
+    "eFootball",
+    "Tournaments",
+    "eFootball-tournaments"
+  ],
+  "author": "Rahul Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Mahesh/eFootball-Database/issues"
+  },
+  "homepage": "https://github.com/Rahul-Mahesh/eFootball-Database#readme"
+}
